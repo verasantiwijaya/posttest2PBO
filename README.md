@@ -437,7 +437,7 @@ public final class Pbo2Alattulis{
 }
 ```
 
-## 📌PENJELASAN CODING
+## 📌PENJELASAN OUTPUT
 1. Masuk ke Menu Utama
    
 ![image](https://github.com/verasantiwijaya/posttest2PBO/assets/122012870/5f189234-65ac-43af-8823-44091f88ad75)
