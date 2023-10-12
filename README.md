@@ -438,3 +438,56 @@ public final class Pbo2Alattulis{
 ```
 
 ## 📌PENJELASAN CODING
+1. Masuk ke Menu Utama
+   
+![image](https://github.com/verasantiwijaya/posttest2PBO/assets/122012870/5f189234-65ac-43af-8823-44091f88ad75)
+
+2. Masuk ke dalam menu Stationery Information
+   
+![image](https://github.com/verasantiwijaya/posttest2PBO/assets/122012870/a5bf133b-b420-4699-bcb3-c16e708886d4)
+
+* Menu Add Stationery
+
+![image](https://github.com/verasantiwijaya/posttest2PBO/assets/122012870/080737e3-c82b-4d79-9a3f-cdbab09aae66)
+
+* Menu View All Stationery
+  
+![image](https://github.com/verasantiwijaya/posttest2PBO/assets/122012870/c318ce2c-73fd-4076-8ab1-92eee7026df0)
+
+* Menu Edit Stationery
+
+![image](https://github.com/verasantiwijaya/posttest2PBO/assets/122012870/2723683a-dadd-4cdd-a14e-c003b8142476)
+
+* Menu Delete Stationery
+
+![image](https://github.com/verasantiwijaya/posttest2PBO/assets/122012870/e50f39ec-669a-4a9d-9944-a0f82cd75f33)
+
+![image](https://github.com/verasantiwijaya/posttest2PBO/assets/122012870/b7101452-7f5d-436b-941a-85c08d43d57f)
+
+
+3. Masuk ke dalam menu Employee Information
+* Menu Add Employee
+
+![image](https://github.com/verasantiwijaya/posttest2PBO/assets/122012870/6ca46360-e85b-4cfe-bd39-d1fae632dabc)
+
+* Menu View All Employee
+
+![image](https://github.com/verasantiwijaya/posttest2PBO/assets/122012870/238c721c-51be-4ae1-be72-c8e0546e9859)
+
+* Menu View All Employee
+  
+![image](https://github.com/verasantiwijaya/posttest2PBO/assets/122012870/ee074f2b-be00-4baf-872e-97d968c02a00)
+
+* Menu Edit Employee
+
+![image](https://github.com/verasantiwijaya/posttest2PBO/assets/122012870/dd0a431f-a2ef-45aa-ac2f-d8458a15cd47)
+
+* Menu Delete Employee
+
+![image](https://github.com/verasantiwijaya/posttest2PBO/assets/122012870/d8f551ad-3dbb-4836-875f-d0cfadde77dd)
+
+![image](https://github.com/verasantiwijaya/posttest2PBO/assets/122012870/99fc3d60-cff3-4355-84e8-883dd075ef7f)
+
+
+
+
