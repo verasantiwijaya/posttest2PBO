@@ -1,6 +1,6 @@
 # Nama : Vera Santi Wijaya
 # NIM : 2209116007
-Kelas : A 2022
+# Kelas : A 2022
 
 ## 📌PENJELASAN PROGRAM
 ### DataKaryawan.java
